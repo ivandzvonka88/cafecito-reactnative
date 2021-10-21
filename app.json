@@ -1,0 +1,12 @@
+{
+  "name": "cafecito",
+  "displayName": "cafecito",
+  "expo": {
+    "name": "cafecito",
+    "slug": "cafecito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
